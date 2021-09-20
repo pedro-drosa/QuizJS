@@ -1,0 +1,10 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "pedro-drosa",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "2.4.0"
+  }
+}
